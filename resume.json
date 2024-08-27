@@ -1,56 +1,64 @@
 {
-    "firstName": "onestar",
-    "lastName": "ss",
-    "projects": [
+  "firstName": "onestar",
+  "lastName": "ss",
+  "sections": [
+    {
+      "title": "Projects",
+      "experiences": [
         {
-            "name": "死亡仪式鸟迸发灵火强度测试",
-            "url": "https://wiki.biligame.com/eldenring/%E6%AD%BB%E4%BA%A1%E4%BB%AA%E5%BC%8F%E9%B8%9F",
-            "description": "如何科学勾引死亡仪式鸟自动跳崖",
-            "tags": [
-                "迸发灵火",
-                "死亡勾棒",
-                "古老死亡怨魂"
-            ],
-            "role": "死亡仪式鸟的出气筒"
+          "title": {
+            "text": "死亡仪式鸟迸发灵火强度测试",
+            "url": "https://wiki.biligame.com/eldenring/%E6%AD%BB%E4%BA%A1%E4%BB%AA%E5%BC%8F%E9%B8%9F"
+          },
+          "subtitle": "如何科学勾引死亡仪式鸟自动跳崖",
+          "tag": "迸发灵火, 死亡勾棒, 古老死亡怨魂",
+          "subtag": "死亡仪式鸟的出气筒"
         },
+
         {
-            "name": "魅惑树枝的使用实践",
-            "url": "https://wiki.biligame.com/eldenring/%E9%AD%85%E6%83%91%E6%A0%91%E6%9E%9D",
-            "description": "如何用魅惑树枝引诱敌人自相残杀",
-            "tags": [
-                "魅惑树枝",
-                "老将尼奥"
-            ],
-            "role": "魅惑树枝高级制作工匠"
+          "title": {
+            "text": "魅惑树枝的使用实践",
+            "url": "https://wiki.biligame.com/eldenring/%E9%AD%85%E6%83%91%E6%A0%91%E6%9E%9D"
+          },
+          "subtitle": "如何用魅惑树枝引诱敌人自相残杀",
+          "tag": "魅惑树枝, 老将尼奥",
+          "subtag": "魅惑树枝高级制作工匠"
         }
-    ],
-    "experiences": [
+      ]
+    },
+    {
+      "title": "Experiences",
+      "experiences": [
         {
-            "company": "史东薇尔城",
-            "location": "宁姆格福",
-            "title": "升降机旁房间门口守卫，主要负责摆放炸药桶",
-            "from": "1020",
-            "to": "1022"
+          "title": "史东薇尔城",
+          "tag": "宁姆格福",
+          "subtitle": "升降机旁房间门口守卫，主要负责摆放炸药桶",
+          "subtag": "1020 - 1022"
         },
         {
-            "company": "火山官邸",
-            "location": "格密尔火山",
-            "title": "火山官邸外卖员兼职暗杀工作，并收集受害者的服装",
-            "from": "1030",
-            "to": "1035"
+          "title": "火山官邸",
+          "subtitle": "火山官邸外卖员兼职暗杀工作，并收集受害者的服装",
+          "tag": "格密尔火山",
+          "subtag": "1030 - 1035"
         },
         {
-            "company": "王城罗德尔",
-            "location": "亚坛高原",
-            "title": "下水道鼠鼠饲养员，经常被来历不明的暗箭中伤",
-            "from": "1040",
-            "to": "1044"
+          "title": "王城罗德尔",
+          "subtitle": "下水道鼠鼠饲养员，经常被来历不明的暗箭中伤",
+          "tag": "亚坛高原",
+          "subtag": "1040 - 1044"
         }
-    ],
-    "education": {
-        "institute": "雷亚卢卡利亚魔法学院",
-        "location": "湖之利耶尼亚",
-        "major": "辉石魔法 - 半生都在学习魔法，仍未毕业",
-        "since": "1000-"
+      ]
+    },
+    {
+      "title": "Education",
+      "experiences": [
+        {
+          "title": "雷亚卢卡利亚魔法学院",
+          "subtitle": "辉石魔法 - 半生都在学习魔法，仍未毕业",
+          "tag": "湖之利耶尼亚",
+          "subtag": "1000 - Present"
+        }
+      ]
     }
+  ]
 }
